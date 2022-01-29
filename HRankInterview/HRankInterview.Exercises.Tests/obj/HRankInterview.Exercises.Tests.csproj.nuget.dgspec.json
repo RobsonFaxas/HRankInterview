@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises.Tests\\HRankInterview.Exercises.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises.Tests\\HRankInterview.Exercises.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises.Tests\\HRankInterview.Exercises.Tests.csproj",
+        "projectName": "HRankInterview.Exercises.Tests",
+        "projectPath": "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises.Tests\\HRankInterview.Exercises.Tests.csproj",
+        "packagesPath": "C:\\Users\\robson_ribeiro_faxas\\.nuget\\packages\\",
+        "outputPath": "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\robson_ribeiro_faxas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises\\HRankInterview.Exercises.csproj": {
+                "projectPath": "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises\\HRankInterview.Exercises.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises\\HRankInterview.Exercises.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises\\HRankInterview.Exercises.csproj",
+        "projectName": "HRankInterview.Exercises",
+        "projectPath": "C:\\robson\\github\\HackerRank\\HRankInterview\\HRankInterview.Exercises\\HRankInterview.Exercises.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

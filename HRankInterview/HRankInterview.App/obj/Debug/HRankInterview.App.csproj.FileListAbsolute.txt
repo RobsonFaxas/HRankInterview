@@ -1,0 +1,10 @@
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\obj\Debug\HRankInterview.App.csproj.AssemblyReference.cache
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\obj\Debug\HRankInterview.App.csproj.CoreCompileInputs.cache
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\bin\Debug\HRankInterview.App.exe.config
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\bin\Debug\HRankInterview.App.exe
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\bin\Debug\HRankInterview.App.pdb
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\bin\Debug\HRankInterview.Exercises.dll
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\bin\Debug\HRankInterview.Exercises.pdb
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\obj\Debug\HRankInterview.App.csproj.CopyComplete
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\obj\Debug\HRankInterview.App.exe
+C:\robson\github\HackerRank\HRankInterview\HRankInterview.App\obj\Debug\HRankInterview.App.pdb
