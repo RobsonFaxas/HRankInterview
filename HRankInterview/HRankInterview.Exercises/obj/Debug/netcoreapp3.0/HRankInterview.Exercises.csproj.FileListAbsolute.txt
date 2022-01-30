@@ -1,0 +1,10 @@
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\bin\Debug\netcoreapp3.0\HRankInterview.Exercises.deps.json
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\bin\Debug\netcoreapp3.0\HRankInterview.Exercises.dll
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\bin\Debug\netcoreapp3.0\HRankInterview.Exercises.pdb
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\obj\Debug\netcoreapp3.0\HRankInterview.Exercises.csproj.AssemblyReference.cache
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\obj\Debug\netcoreapp3.0\HRankInterview.Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\obj\Debug\netcoreapp3.0\HRankInterview.Exercises.AssemblyInfoInputs.cache
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\obj\Debug\netcoreapp3.0\HRankInterview.Exercises.AssemblyInfo.cs
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\obj\Debug\netcoreapp3.0\HRankInterview.Exercises.csproj.CoreCompileInputs.cache
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\obj\Debug\netcoreapp3.0\HRankInterview.Exercises.dll
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.Exercises\obj\Debug\netcoreapp3.0\HRankInterview.Exercises.pdb

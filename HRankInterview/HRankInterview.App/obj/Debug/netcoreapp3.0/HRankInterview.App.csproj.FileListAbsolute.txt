@@ -1,0 +1,17 @@
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\bin\Debug\netcoreapp3.0\HRankInterview.App.exe
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\bin\Debug\netcoreapp3.0\HRankInterview.App.deps.json
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\bin\Debug\netcoreapp3.0\HRankInterview.App.runtimeconfig.json
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\bin\Debug\netcoreapp3.0\HRankInterview.App.runtimeconfig.dev.json
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\bin\Debug\netcoreapp3.0\HRankInterview.App.dll
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\bin\Debug\netcoreapp3.0\HRankInterview.App.pdb
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\bin\Debug\netcoreapp3.0\HRankInterview.Exercises.dll
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\bin\Debug\netcoreapp3.0\HRankInterview.Exercises.pdb
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\obj\Debug\netcoreapp3.0\HRankInterview.App.csproj.AssemblyReference.cache
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\obj\Debug\netcoreapp3.0\HRankInterview.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\obj\Debug\netcoreapp3.0\HRankInterview.App.AssemblyInfoInputs.cache
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\obj\Debug\netcoreapp3.0\HRankInterview.App.AssemblyInfo.cs
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\obj\Debug\netcoreapp3.0\HRankInterview.App.csproj.CoreCompileInputs.cache
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\obj\Debug\netcoreapp3.0\HRankInterview.App.csproj.CopyComplete
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\obj\Debug\netcoreapp3.0\HRankInterview.App.dll
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\obj\Debug\netcoreapp3.0\HRankInterview.App.pdb
+C:\robson\github\mParticleInterview\HRankInterview\HRankInterview.App\obj\Debug\netcoreapp3.0\HRankInterview.App.genruntimeconfig.cache

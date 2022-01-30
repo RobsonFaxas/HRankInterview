@@ -1,6 +1,0 @@
-C:\robson\github\HackerRank\HRankInterview\HRankInterview.Exercises\obj\Debug\HRankInterview.Exercises.csproj.CoreCompileInputs.cache
-C:\robson\github\HackerRank\HRankInterview\HRankInterview.Exercises\bin\Debug\HRankInterview.Exercises.dll
-C:\robson\github\HackerRank\HRankInterview\HRankInterview.Exercises\bin\Debug\HRankInterview.Exercises.pdb
-C:\robson\github\HackerRank\HRankInterview\HRankInterview.Exercises\obj\Debug\HRankInterview.Exercises.dll
-C:\robson\github\HackerRank\HRankInterview\HRankInterview.Exercises\obj\Debug\HRankInterview.Exercises.pdb
-C:\robson\github\HackerRank\HRankInterview\HRankInterview.Exercises\obj\Debug\HRankInterview.Exercises.csproj.AssemblyReference.cache

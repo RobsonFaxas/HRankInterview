@@ -6,12 +6,12 @@ using Xunit;
 
 namespace HRankInterview.Exercises.Tests.Logics
 {
-    public class SampleTest
+    public class SampleTest :TestsBase
     {
         private readonly string _baseOutputFolder;
         public SampleTest()
         {
-            _baseOutputFolder = $"{ConfigurationManager.AppSettings["baseOutputFolder"]}/{nameof(FizzBuzzLogic)}";
+            _baseOutputFolder = $"{BaseOutputFolderRoot}/{nameof(FizzBuzzLogic)}";
         }
 
         [Fact]

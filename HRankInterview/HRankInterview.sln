@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRankInterview.App", "HRankInterview.App\HRankInterview.App.csproj", "{59A4620D-5C9E-4E98-816F-73A2BEF4B0F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRankInterview.App", "HRankInterview.App\HRankInterview.App.csproj", "{78DF0526-1035-46E4-8A1A-1D5D77CCFDA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRankInterview.Exercises", "HRankInterview.Exercises\HRankInterview.Exercises.csproj", "{B27FB507-6FB6-456A-A731-3D336BCF1EDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRankInterview.Exercises", "HRankInterview.Exercises\HRankInterview.Exercises.csproj", "{2B6134B0-2867-48BC-9B90-A4442F0FC23A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRankInterview.Exercises.Tests", "HRankInterview.Exercises.Tests\HRankInterview.Exercises.Tests.csproj", "{E8EBA182-68F2-4202-922A-9FE8AF66D53F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRankInterview.Exercises.Tests", "HRankInterview.Exercises.Tests\HRankInterview.Exercises.Tests.csproj", "{56483AA4-8EE0-45E5-9654-E8AF86BC81AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59A4620D-5C9E-4E98-816F-73A2BEF4B0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59A4620D-5C9E-4E98-816F-73A2BEF4B0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59A4620D-5C9E-4E98-816F-73A2BEF4B0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59A4620D-5C9E-4E98-816F-73A2BEF4B0F2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B27FB507-6FB6-456A-A731-3D336BCF1EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B27FB507-6FB6-456A-A731-3D336BCF1EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B27FB507-6FB6-456A-A731-3D336BCF1EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B27FB507-6FB6-456A-A731-3D336BCF1EDE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E8EBA182-68F2-4202-922A-9FE8AF66D53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8EBA182-68F2-4202-922A-9FE8AF66D53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8EBA182-68F2-4202-922A-9FE8AF66D53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8EBA182-68F2-4202-922A-9FE8AF66D53F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DF0526-1035-46E4-8A1A-1D5D77CCFDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DF0526-1035-46E4-8A1A-1D5D77CCFDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DF0526-1035-46E4-8A1A-1D5D77CCFDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DF0526-1035-46E4-8A1A-1D5D77CCFDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6134B0-2867-48BC-9B90-A4442F0FC23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6134B0-2867-48BC-9B90-A4442F0FC23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6134B0-2867-48BC-9B90-A4442F0FC23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6134B0-2867-48BC-9B90-A4442F0FC23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56483AA4-8EE0-45E5-9654-E8AF86BC81AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56483AA4-8EE0-45E5-9654-E8AF86BC81AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56483AA4-8EE0-45E5-9654-E8AF86BC81AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56483AA4-8EE0-45E5-9654-E8AF86BC81AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CE743AE1-6EBD-4449-9244-E6F6B2614E73}
+		SolutionGuid = {602B83CA-EE10-4255-A113-2BE41E6CAF9B}
 	EndGlobalSection
 EndGlobal

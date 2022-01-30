@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "HRankInterview.App/1.0.0": {
+        "dependencies": {
+          "HRankInterview.Exercises": "1.0.0"
+        },
+        "runtime": {
+          "HRankInterview.App.dll": {}
+        }
+      },
+      "HRankInterview.Exercises/1.0.0": {
+        "runtime": {
+          "HRankInterview.Exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRankInterview.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HRankInterview.Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
